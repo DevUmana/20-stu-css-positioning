@@ -28,7 +28,7 @@ How does the CSS `position` property change the document's normal flow?
 
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
 
-* What is the `z-index` property? 
+* What is the `z-index` property? controls the stacking order of overlapping elements on a page.
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
